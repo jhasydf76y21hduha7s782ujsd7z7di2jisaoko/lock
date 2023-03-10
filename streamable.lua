@@ -6,6 +6,8 @@ Aiming.FOVSides = 360
 Aiming.HitChance = 124
 Aiming.ShowFOV = false
 
+--cok
+
 getgenv().Fatality = {
     Underground = {
         ["Enabled"] = true,
