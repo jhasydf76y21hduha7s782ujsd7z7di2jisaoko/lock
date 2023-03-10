@@ -1,6 +1,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ChaseSYNX/Scripts/main/Streamable-Silent"))()
 DaHoodSettings.Prediction = 0.121
-Aiming.TargetPart = {"Head", "LeftHand", "RightHand", "LeftLowerArm", "RightLowerArm", "LeftUpperArm", "RightUpperArm", "LeftFoot", "LeftLowerLeg", "UpperTorso", "HumanoidRootPart", "LeftUpperLeg", "RightLowerLeg", "RightFoot", "LowerTorso"}
+Aiming.TargetPart = {"Head"}
 Aiming.FOV = 30
 Aiming.FOVSides = 360
 Aiming.HitChance = 124
@@ -44,5 +44,3 @@ getgenv().Fatality = {
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tailgater/Fatality/main/StandaloneAntiLock", true))()
-
-end
