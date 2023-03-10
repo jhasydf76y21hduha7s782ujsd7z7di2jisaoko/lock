@@ -44,3 +44,4 @@ getgenv().Fatality = {
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tailgater/Fatality/main/StandaloneAntiLock", true))()
+end
